@@ -1,12 +1,13 @@
 # online judge 测评网站：
-http://oj.likecoding.cf
-
+<a href="http://oj.likecoding.cf">点击此处访问oj</a>
 
 P.s:网站有密码，请来此处获取密码，他将会跳转至我们的网址*.likecoding.cf *是自动设置的，不定时更新*
 
-2018/06/24更新密码：
+2018/06/26更新密码：
 
-由于vps尚未开放，likecoding组将推延出现oj密码，以及oj网站
+由于vps尚未开放，likecoding组将推延出现oj密码，以及oj网站，但是，我们提供了从网上搜索的测试数据
+<a href="https://likecoding.cf/img/freeproblemset.zip">点击此处下载解压版的测试数据</a>
+<a href="https://likecoding.cf/img/xmlfreeproblemset.zip">点击此处下载fps(xml)版的测试数据</a>
 
 ### likecoding组
 
