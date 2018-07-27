@@ -100,3 +100,12 @@ for语句第一行，先将it这个迭代器指向容器的开始位置，当他
 这就是输出的结果。
 
 明天更新set的插入输出
+
+暂时添加下做题内容
+一个为flash，一个为html5
+    <div id="page1"></div>
+    <div id="page2"></div>
+    <script>
+          $("#page1").load("https://likecoding.cf/ispring/set1/index.html");
+          $("#page2").load("https://likecoding.cf/ispring/set1/flash.html");
+    </script>
