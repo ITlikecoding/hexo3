@@ -16,4 +16,4 @@ P.s:打赏如果要提名，我们会在这一页进行提名
 ### 微信打赏
 ![_20180624192015.png](https://wailian.work/images/2018/06/24/_20180624192015.png)
 ### 打赏人员
-![6bc19d001748834e.png](https://wailian.work/images/2018/06/24/6bc19d001748834e.png)
+![dcc35dfc9264c10d.png](https://wailian.work/images/2018/08/15/dcc35dfc9264c10d.png)
